@@ -1,4 +1,7 @@
 # WebCli
+Project for accessing Linux CLI from Web Page
+
+WebCLI is a small application to address one specific use case - *Access Linux CLI as a Web Application.*
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
